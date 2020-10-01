@@ -14,7 +14,7 @@
 <a href="https://twitter.com/MairaAbhishek" ><img src="https://img.shields.io/twitter/follow/MairaAbhishek.svg?style=social" /> </a>
 <a href="https://discord.gg/hacktoberfest"><img src="https://img.shields.io/discord/733027681184251937.svg?style=flat&label=Join%20Community&color=7289DA" alt="Join Community Badge"/></a>
 <a href="https://github.com/AbhishekMaira10/Hacktoberfest2020/pulls"><img src="https://img.shields.io/github/issues-pr/AbhishekMaira10/Hacktoberfest2020" alt="Pull Requests Badge"/></a>
-<a href="https://github.com/abhisheknaiidu/hacktoberfest2020/blob/master/LICENSE"><img src="https://img.shields.io/github/license/abhisheknaiidu/hacktoberfest2020?color=2b9348" alt="License Badge"/></a>
+<a href="https://github.com/AbhishekMaira10/Hacktoberfest2020/blob/master/LICENSE"><img src="https://img.shields.io/github/license/AbhishekMaira10/Hacktoberfest2020?color=2b9348" alt="License Badge"/></a>
 </div>
 
 ### 🗣 Hacktoberfest encourages participation in the open source community, which grows bigger every year. Complete the 2020 challenge and earn a limited edition T-shirt.
