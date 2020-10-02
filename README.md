@@ -31,7 +31,7 @@ A month-long celebration from October 1st - 31st sponsored by [Digital Ocean](ht
 Here are 2 quick and painless ways to contribute to this project:
 
 * Add a profile page to the `profiles` directory
-* Create a simple "Hello, World" script in a language of your choice
+* Create a simple "Hello Hacktober2020" script in a language of your choice
 
 Choose one or all 2, make a pull request for your work and wait for it to be merged!
 
@@ -104,13 +104,13 @@ Add a `hello_hacktober_yourusername.xx` script to the `scripts` directory in any
 // AUTHOR: Abhishek Maira
 // GITHUB: https://github.com/AbhishekMaira10
 
-print('Hello Hacktober');
+print('Hello Hacktober2020');
 ```
 
 Name the file `hello_world_yourusername.xx`. e.g., `hello_hacktober_AbhishekMaira10.dart` or `hello_hacktober_AbhishekMaira10.py`.
 
 
-Here is my `hello_world` example: [hello_hacktober_AbhishekMaira10.dart](https://github.com/AliceWonderland/hacktoberfest/blob/master/scripts/hello_world_alicewonderland.js)
+Here is my `hello_world` example: [hello_hacktober_AbhishekMaira10.dart](https://github.com/AbhishekMaira10/Hacktoberfest2020/blob/master/scripts/hello_hacktober_AbhishekMaira10.dart)
 
 
 ## License 
