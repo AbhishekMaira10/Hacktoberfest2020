@@ -96,7 +96,7 @@ Your School
 [Your Name](GitHub Link)
 ```
 
-### 3. Create a `Hello, World!` Script
+### 3. Create a `Hello hacktober!` Script
 Add a `hello_hacktober_yourusername.xx` script to the `scripts` directory in any language of your choice! Here is an example:
 
 ```Dart
@@ -107,10 +107,10 @@ Add a `hello_hacktober_yourusername.xx` script to the `scripts` directory in any
 print('Hello Hacktober2020');
 ```
 
-Name the file `hello_world_yourusername.xx`. e.g., `hello_hacktober_AbhishekMaira10.dart` or `hello_hacktober_AbhishekMaira10.py`.
+Name the file `hello_hacktober_yourusername.xx`. e.g., `hello_hacktober_AbhishekMaira10.dart` or `hello_hacktober_AbhishekMaira10.py`.
 
 
-Here is my `hello_world` example: [hello_hacktober_AbhishekMaira10.dart](https://github.com/AbhishekMaira10/Hacktoberfest2020/blob/master/scripts/hello_hacktober_AbhishekMaira10.dart)
+Here is my `hello_hacktober` example: [hello_hacktober_AbhishekMaira10.dart](https://github.com/AbhishekMaira10/Hacktoberfest2020/blob/master/scripts/hello_hacktober_AbhishekMaira10.dart)
 
 
 ## License 
