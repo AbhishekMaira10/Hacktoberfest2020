@@ -83,10 +83,6 @@ Your School
 
 - Some Things You Like
 
-### Development
-
-- Inventor of the My Sofa
-
 ### Projects
 
 - [My Project](GitHub Link) Short Description
