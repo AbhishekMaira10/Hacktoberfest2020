@@ -1,4 +1,4 @@
-// LANGUAGE: Javascriot
+// LANGUAGE: Javascript
 // AUTHOR: Haider
 // GITHUB: https://github.com/mhaider110
 
