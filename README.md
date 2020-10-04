@@ -66,6 +66,7 @@ git push origin branch-name
 
 ## Choose from these tasks
 ### 1. Add a profile page
+
 Add a `Your_Name.md` file to the `profiles` directory. Use any combination of content and Markdown you'd like. Here is an example:
 
 ```markdown
