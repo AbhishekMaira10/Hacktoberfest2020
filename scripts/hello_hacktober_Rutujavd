@@ -1,0 +1,8 @@
+// LANGUAGE: English
+// AUTHOR: Rutuja Dicholkar
+// GITHUB: https://github.com/Rutujavd
+
+void main()
+{
+  print('Hello Hacktober2020');
+ }
