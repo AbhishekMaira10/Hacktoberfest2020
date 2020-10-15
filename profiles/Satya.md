@@ -14,4 +14,4 @@
   Currently working on Making a Budget App project
   
   Github:
-  [Satya] (https://github.com/Spider-50140)
+  [Satya] https://github.com/Spider-50140
