@@ -1,5 +1,5 @@
-//LANGUAGE : Python
-//AUTHOR : Surabhi Mishra
+//LANGUAGE: Python
+//AUTHOR: Surabhi Mishra
 //GITHUB: https://github.com/SurabhiMishra
 
-print("Hello Hacktober2020")
+print("Hello Hactober 2020")
