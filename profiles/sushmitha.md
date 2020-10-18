@@ -25,4 +25,4 @@ Worked on Scheme for Farmers project.
 
 ### Profile Link
 
-[H S Sushmitha](https://github.com/Sushmitha004)
+[H.S. Sushmitha](https://github.com/Sushmitha004)
