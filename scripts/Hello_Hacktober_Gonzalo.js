@@ -4,3 +4,5 @@ function Hello() {
   console.log('Hello Hacktober from Gonzalo!!!')
   intro.play()
 }
+
+Hello()
