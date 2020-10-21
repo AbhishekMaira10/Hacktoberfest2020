@@ -1,8 +1,9 @@
-const intro = new Audio('../assets/Konami Intro - Metal Gear Solid ᴴᴰ.mp3')
+// LANGUAGE: Javascript
+// AUTHOR: Gonzalo Gutierrez
+// GITHUB: https://github.com/gonzalojs
 
 function Hello() {
-  console.log('Hello Hacktober from Gonzalo!!!')
-  intro.play()
+  console.log('Hello Hacktober from Gonzalo!')
 }
 
 Hello()
