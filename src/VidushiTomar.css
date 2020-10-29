@@ -1,0 +1,26 @@
+
+div{
+    background-color: antiquewhite;
+    height: 500px;
+}
+img{
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-left: 200px;
+}
+div p{
+    padding: 10px;
+    text-decoration-style: solid;
+    font-size: 20px;
+}
+#first{
+    background-color: antiquewhite;
+    height: 200px;
+}
+h1{
+    padding: 10px;
+    text-decoration: underline palevioletred;
+}
+li{
+    font-size: 18px;
+}
