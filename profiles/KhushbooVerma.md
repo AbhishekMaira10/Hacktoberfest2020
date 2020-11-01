@@ -19,4 +19,4 @@ Rajasthan Technical University
 
 ### Profile Link
 
-[Abhay Dogra](https://github.com/khushoo7599)
+[Khushboo Verma](https://github.com/khushoo7599)
